@@ -2,8 +2,7 @@ import { useEffect, useRef, useState } from 'react'
 import { motion } from 'framer-motion'
 import ScrambleIn from '../components/ScrambleIn'
 
-const HERO_VIDEO =
-  'https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260622_083515_290e5a10-0b95-41af-a5e2-32b6389baa4d.mp4'
+const HERO_VIDEO = '/videos/hero-scrub.mp4'
 
 const SCRUB_SENSITIVITY = 0.8
 
